@@ -2,3 +2,6 @@
 Njemeh
 Moduuli 1
 Tehty hello.py ja tallennettu G
+
+#python harjoitukset
+Njemeh moduuli 4 tehty tehtävät 1-5 tehty
