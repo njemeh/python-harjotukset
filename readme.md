@@ -7,3 +7,8 @@ Tehty hello.py ja tallennettu G
 
 # python harjoitukset
 Njemeh moduuli 4 tehty tehtävät 1-5 tehty
+
+
+ # python harjoitukset# 
+Njemeh moduuli 5 tehty tehtävät 1-4 tehty
+
